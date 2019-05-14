@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20181107_zhhllk8kx7e.mp4" >}}
 
-     共和党赢还是民主党赢？再谈中期选举及美国选举文化 
      https://www.youtube.com/watch?v=ZHhlLk8kx7E 
      
+     共和党赢还是民主党赢？再谈中期选举及美国选举文化 

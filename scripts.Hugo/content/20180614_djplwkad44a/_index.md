@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180614_djplwkad44a.mp4" >}}
 
+     
      川金会及中国变局 
      https://www.youtube.com/watch?v=dJpLwkAD44A 
-     

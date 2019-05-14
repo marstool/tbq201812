@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180512_nak9piqfou.mp4" >}}
 
-     关于我和耿静女士正式分居的声明 
-     https://www.youtube.com/watch?v=_nak9piqfOU 
      
+     https://www.youtube.com/watch?v=_nak9piqfOU 
+     关于我和耿静女士正式分居的声明 

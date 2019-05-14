@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180518_tr64urcttt4.mp4" >}}
 
-     
      美国不是中共走卒的天堂 闹剧应该收场了 
+     
      https://www.youtube.com/watch?v=Tr64urCTtt4 

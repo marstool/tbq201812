@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180508_zzqeyavtmie.mp4" >}}
 
+     https://www.youtube.com/watch?v=ZzqEyAvtmIE 
      再谈禁制令开庭细节 反驳被告律师歪曲事实的声明 
      
-     https://www.youtube.com/watch?v=ZzqEyAvtmIE 
