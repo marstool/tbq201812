@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180828_bk094bbogo8.mp4" >}}
 
+     
      评终结共产主义呼吁书 
      https://www.youtube.com/watch?v=bk094bboGo8 
-     

@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20181226_waqfwrghnti.mp4" >}}
 
-     https://www.youtube.com/watch?v=WAQFwrghNTI 
      圣诞节谈美国生活及反共事业 
+     https://www.youtube.com/watch?v=WAQFwrghNTI 
      圣诞节谈美国生活及反共事业 

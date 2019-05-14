@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180601_ssvvl260i_s.mp4" >}}
 
-     
-     https://www.youtube.com/watch?v=SSvVL260I_s 
      美国为何同時向朝鲜、中共、伊朗、俄罗斯和叙利亚独裁政权开火 
+     https://www.youtube.com/watch?v=SSvVL260I_s 
+     

@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20181201_bixdivzmq_e.mp4" >}}
 
-     https://www.youtube.com/watch?v=BixDivZMq E 
-     
      评川习会及中美关系前景预测 
+     
+     https://www.youtube.com/watch?v=BixDivZMq E 
